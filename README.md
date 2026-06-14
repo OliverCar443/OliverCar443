@@ -4,7 +4,7 @@ My professional background includes customer service, web development, and graph
 <br>
 
 ## Objective
-As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a Tier 1 Analyst.
+As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a Tier 1 Analyst. My Long term goal is continue broadening my knowledge and strengthening my skills as i build my career towards a senior security analyst and threat hunter.
 <br>
 <br>
 
