@@ -1,5 +1,5 @@
-# My Cyber Security Portfolio📡    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-car443)
-Hello, my name is **Oliver**, and my professional background includes customer service, web development, and graphic design, but my journey has always led me back to my passion for CyberSecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
+# Hello, Im Oliver 📡    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-car443)
+My professional background includes customer service, web development, and graphic design, but my journey has always led me back to my passion for CyberSecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
 <br>
 <br>
 
