@@ -11,7 +11,7 @@ As i transition into the field, my current aim is to join a Security Operations 
 ## Skills💡🧠
 |Skill                                         |    Associated Project            |
 |----------------------------------------------|----------------------------------|
-|Security Posture Audit                        | <a href="https://google.com">Security Audit</a> |
+|Security Posture Audit                        | <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a> |
 |Network Traffic Analysis & Attack Detection   | <a href="https://google.com">TCPDump Network/Log Analysis</a> |
 |Log Analysis                                  | <a href="https://google.com">TCPDump Network Traffic</a> |
 <br>
@@ -25,7 +25,7 @@ As i transition into the field, my current aim is to join a Security Operations 
 <br>
 
 ## Projects⚙️🔦
--  <a href="https://google.com">Security Audit</a>
+-  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
 -  <a href="https://google.com">TCPDump Network/Log Analysis</a>
 -  <a href="https://google.com">TCPDump Network/Log Analysis</a>
 ---
