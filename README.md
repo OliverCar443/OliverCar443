@@ -3,7 +3,7 @@ My professional background consist of 15 years of customer service, web developm
 <br>
 <br>
 
-## Objective
+## Objective🎯
 As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a **Tier 1 Analyst**. My Long term goal is to continue broadening my knowledge and strengthening my skills as i build my career towards a senior security analyst and threat hunter.
 <br>
 <br>
@@ -18,10 +18,10 @@ As i transition into the field, my current aim is to join a Security Operations 
 <br>
 <br>
 
-## Certifications
+## Certifications🎖️
 1. Google Cyber Security Profesional
 2. TryHackMe SOC L1
-3. COMPTIA Security+ (Test Date August 15th)   
+3. COMPTIA Security+ (Test Date August 15th 2026)   
 <br>
 <br>
 
@@ -32,7 +32,7 @@ As i transition into the field, my current aim is to join a Security Operations 
 -  <a href="https://google.com">Basic Homelab</a>
 <br>
 
-## Resources
+## Resources🔍
 - My Learning Path (coming Soon)
 - Common Ports (Coming Soon)
 - OSI Model (Coming Soon)
