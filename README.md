@@ -1,5 +1,5 @@
-# Hello, Im Oliver 📡    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-car443)
-My professional background consist of 15 years of customer service, web development, and graphic design, but my journey has always led me back to my passion for CyberSecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
+# Oliver | Security Portfolio 📡    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-car443)
+Hello, im a Cybersecurity analyst and through this platform i document my hands-on security work. My professional background consist of 15 years of customer service, web development, and graphic design, but my journey has always led me back to my passion for Cybersecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
 <br>
 <br>
 
