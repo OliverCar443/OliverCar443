@@ -1,10 +1,10 @@
 # Oliver | Security Portfolio 📡    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-car443)
-Hello, im a Cybersecurity analyst and through this platform i document my hands-on security work. My professional background consist of 15 years of customer service, web development, and graphic design, but my journey has always led me back to my passion for Cybersecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
+Hello, im a Cybersecurity analyst and through this platform i document my hands-on security work. My professional background consist of 15 years in customer service, web development, and graphic design, but my journey has always led me back to my passion for Cybersecurity. I consider myself an analytical thinker and i use that ability to troubleshoot problems and effectively find solutions. 
 <br>
 <br>
 
 ## Objective🎯
-As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a **Tier 1 Analyst**. My Long term goal is to continue broadening my knowledge and strengthening my skills as i build my career towards a senior security analyst and threat hunter.
+As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a **Tier 1 Analyst**. My Long term goal is to continue broadening my knowledge and strengthening my skills as i build my career through the cyber security domains.
 <br>
 <br>
 
