@@ -21,7 +21,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 ## Certifications🎖️
 1. Google Cyber Security Profesional
 2. TryHackMe SOC L1
-3. COMPTIA Security+ (Test Date August 15th 2026)   
+3. COMPTIA Security+ (Test Date August 15th 2026)
+4. COMPTIA Network+  (Expected December 2026)
 <br>
 <br>
 
