@@ -12,8 +12,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 |Skill                                         |    Associated Project            |
 |----------------------------------------------|----------------------------------|
 |Security Posture Audit                        | <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a> |
-|Network Traffic Analysis & Attack Detection   | <a href="https://google.com">TCPDump Network/Log Analysis</a> |
-|TCP/HTTP Log Network Attack Analysis          | <a href="https://google.com">(Wireshark) Network Traffic Analysis</a> |
+|Network Traffic Analysis & Attack Detection   | <a href="https://google.com](https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">TCPDump Network/Log Analysis</a> |
+|TCP/HTTP Log Network Attack Analysis          | <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a> |
 |Create, Secure, & Manage Virtual Machines     | <a href="https://google.com">Basic Homelab</a> |
 <br>
 <br>
@@ -27,8 +27,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 
 ## Projects⚙️🔦
 -  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
--  <a href="https://google.com">TCPDump Network/Log Analysis</a>
--  <a href="https://google.com">(Wireshark) Network Traffic Analysis</a>
+-  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">TCPDump Network/Log Analysis</a>
+-  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
 -  <a href="https://google.com">Basic Homelab</a>
 <br>
 
