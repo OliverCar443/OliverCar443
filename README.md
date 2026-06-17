@@ -23,8 +23,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 1. Google Cyber Security Profesional
 2. TryHackMe SOC L1
 3. COMPTIA Security+ (Test Date August 15th 2026)
-4. COMPTIA Linux+  (Expected Winter 2026)
-5. Comptia Network+ (Expected Spring 2027)
+4. COMPTIA Linux+    (Expected Winter 2026)
+5. COMPTIA Network+  (Expected Spring 2027)
 <br>
 <br>
 
