@@ -14,7 +14,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 |Security Compliance & Posture Auditing        | <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a> |
 |Network Traffic Analysis & Attack Detection   | <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">TCPDump Network/Log Analysis</a> |
 |Network Log Attack Analysis                   | <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a> |
-|Create, Secure, & Manage Virtual Machines     | <a href="https://google.com">Basic Homelab</a> |
+|Coming Soon (June 2026)                       | <a href="https://google.com">Email Phishing Analysis |
+|Create, Secure, & Manage Virtual Machines (Uploading)    | <a href="https://google.com">Basic Virtual Homelab</a> |
 <br>
 <br>
 
@@ -22,7 +23,8 @@ As i transition into the field, my current aim is to join a Security Operations 
 1. Google Cyber Security Profesional
 2. TryHackMe SOC L1
 3. COMPTIA Security+ (Test Date August 15th 2026)
-4. COMPTIA Network+  (Expected December 2026)
+4. COMPTIA Linux+  (Expected Winter 2026)
+5. Comptia Network+ (Expected Spring 2027)
 <br>
 <br>
 
