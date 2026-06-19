@@ -4,7 +4,7 @@ Hello, i'm a Cybersecurity analyst and through this platform i document my hands
 <br>
 
 ## Objective🎯
-As i transition into the field, my current aim is to join a Security Operations Center(SOC) as a **Tier 1 Analyst**. My Long term goal is to continue broadening my knowledge and strengthening my skills as i build my career through the cyber security domains.
+As i transition into this field, my current aim is to join a Security Operations Center(SOC) as a **Tier 1 Analyst**. My Long term goal is to continue broadening my knowledge and strengthening my skills as i build my career through the cyber security domains.
 <br>
 <br>
 
