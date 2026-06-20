@@ -46,6 +46,4 @@ As i transition into this field, my current aim is to join a Security Operations
 - OSI Model (Coming Soon)
 <br>
 
-
-
 <!-- Created By Oliver Car ( https:// ) -->
