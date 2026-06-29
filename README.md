@@ -29,15 +29,20 @@ As i transition into this field, my current aim is to join a Security Operations
 <br>
 
 ## Projects⚙️🔦
+Analysis
 -  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
 -  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a>
 -  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
 -  <a href="https://google.com">Email Phishing Analysis (Coming June 2026)</a>
 -  <a href="https://google.com">Malware Analysis (Coming July2 2026)</a>
+
+Network & Cyber Security
 -  <a href="https://google.com">Basic Virtual Homelab (3 Part Series) ////Loading////</a>
 -  <a href="https://google.com">Build a Linux Environment (Coming June25 2026)</a>
+-  <a href="https://google.com">Cisco Packet Tracer: Network Building Series ////Loading////</a>
+
+Programming & Automation
 -  <a href="https://google.com">Basic Python Projects (Coming July30 2026)</a>
--  <a href="https://google.com">Cisco Packet Tracer: Networking Building Series ////Loading////</a>
 <br>
 
 ## Resources🔍
