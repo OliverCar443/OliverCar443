@@ -15,7 +15,7 @@ As i transition into this field, my current aim is to join a Security Operations
 |Log Analysis & Attack Detection   | <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a> |
 |Network Traffic Analysis                      | <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a> |
 |Coming Soon                        | <a href="https://google.com">Email Phishing Analysis |
-|Create a Virtual Machine Homelab/Sandbox Environment  | <a href="https://google.com">Basic Virtual Homelab</a> |
+|Virtualization, System Hardening, Network Security  | <a href="https://google.com">Basic Virtual Homelab</a> |
 <br>
 <br>
 
