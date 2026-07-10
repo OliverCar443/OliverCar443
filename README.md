@@ -20,11 +20,9 @@ As i transition into this field, my current aim is to join a Security Operations
 <br>
 
 ## Certifications🎖️
-1. Google Cyber Security Profesional
-2. TryHackMe SOC L1
-3. COMPTIA Security+ (Test Date August 15th 2026)
-4. COMPTIA Linux+    (Expected Winter 2026)
-5. COMPTIA Network+  (Expected Spring 2027)
+1. Google Cyber Security Professional
+2. COMPTIA Security+ (Test Date September 15th 2026)
+3. COMPTIA Network+  (Expected Spring 2027)
 <br>
 <br>
 
@@ -33,12 +31,12 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
 -  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a>
 -  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
--  <a href="https://google.com">Email Phishing Analysis </a> _(Coming July 10th 2026)_
+-  <a href="https://google.com">Email Phishing Analysis </a> _(Coming July 15 2026)_
 -  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
 
 **Network & Cyber Security**
--  <a href="https://google.com">Basic Virtual Homelab:3 Part Series </a> _(July 1st 2026)_
--  <a href="https://google.com">Build a Linux Environment </a> _(July 6th 2026)_
+-  <a href="https://google.com">Basic Virtual Homelab:3 Part Series </a> _(July 13 2026)_
+-  <a href="https://google.com">Build a Linux Environment </a> _(July 20 2026)_
 -  <a href="https://google.com">Cisco Packet Tracer: Network Building Series </a> _(September 20th 2026)_
 
 **Programming & Automation**
