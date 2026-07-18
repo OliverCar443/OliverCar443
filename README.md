@@ -15,7 +15,7 @@ As i transition into this field, my current aim is to join a Security Operations
 |Log Analysis & Attack Detection   | <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a> |
 |Network Traffic Analysis                      | <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a> |
 |Coming Soon                        | <a href="https://google.com">Email Phishing Analysis |
-|Virtualization, System Hardening, Network Security  | <a href="https://google.com">Basic Virtual Homelab/SOC</a> |
+|Virtualization, System Hardening, Network Security  | <a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Cybersecurity Homelab</a> |
 <br>
 <br>
 
@@ -35,7 +35,7 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
 
 **Network & Cyber Security**
--  <a href="https://google.com">Basic Virtual Homelab:3 Part Series </a> _(July 13 2026)_
+-  <a href="https://google.com">Virtual Cybersecurity Homelab: 3 Part Series </a>
 -  <a href="https://google.com">Build a Linux Environment </a> _(July 20 2026)_
 -  <a href="https://google.com">Cisco Packet Tracer: Network Building Series </a> _(September 20th 2026)_
 
