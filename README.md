@@ -31,7 +31,7 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
 -  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a>
 -  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
--  <a href="https://google.com">Email Phishing Analysis </a> _(Coming July 15 2026)_
+-  <a href="https://google.com">Email Phishing Analysis </a> _(Coming July 25 2026)_
 -  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
 
 **Network & Cyber Security**
