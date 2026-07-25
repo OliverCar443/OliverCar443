@@ -35,12 +35,15 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
 
 **Network & Cyber Security**
--  <a href="https://google.com">Virtual Cybersecurity Homelab: 3 Part Series </a>
--  <a href="https://google.com">Build a Linux Environment </a> _(July 20 2026)_
+-  <a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Cybersecurity Homelab: 3 Part Series </a>
 -  <a href="https://google.com">Cisco Packet Tracer: Network Building Series </a> _(September 20th 2026)_
 
 **Programming & Automation**
 -  <a href="https://google.com">Basic Python Projects </a> _(August 30th 2026)_
+
+**System Admin**
+-  <a href="https://google.com">Build a Linux Environment </a> _(July 20 2026)_
+-  <a href="https://google.com">Active Directory</a> _(September 30th 2026)_
 <br>
 
 ## Resources🔍
