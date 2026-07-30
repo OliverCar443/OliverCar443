@@ -11,7 +11,7 @@ As i transition into this field, my current aim is to join a Security Operations
 ## Skills💡🧠
 |Skill                                         |    Associated Project            |
 |----------------------------------------------|----------------------------------|
-|Security Compliance & Posture Auditing        | <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a> |
+|Security Compliance & Posture Auditing        | <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Compliance Audit</a> |
 |Log Analysis & Attack Detection   | <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a> |
 |Network Traffic Analysis                      | <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a> |
 |Coming Soon                        | <a href="https://google.com">Email Phishing Analysis |
@@ -28,10 +28,10 @@ As i transition into this field, my current aim is to join a Security Operations
 
 ## Projects⚙️🔦
 **Analysis**
--  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Security Audit</a>
+-  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Compliance Audit</a>
 -  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a>
 -  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
--  <a href="https://google.com">Email Phishing Analysis </a> _(Coming July 25 2026)_
+-  <a href="https://google.com">Email Phishing Analysis </a> _(Coming August 5 2026)_
 -  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
 
 **Network & Cyber Security**
@@ -42,7 +42,7 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://google.com">Basic Python Projects </a> _(August 30th 2026)_
 
 **System Admin**
--  <a href="https://google.com">Build a Linux Environment </a> _(July 20 2026)_
+-  <a href="https://google.com">Build a Linux Environment </a> _(August 2 2026)_
 -  <a href="https://google.com">Active Directory</a> _(September 30th 2026)_
 <br>
 
