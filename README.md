@@ -21,7 +21,7 @@ As i transition into this field, my current aim is to join a Security Operations
 
 ## Certifications🎖️
 1. Google Cyber Security Professional
-2. COMPTIA Security+ (Test Date September 15th 2026)
+2. COMPTIA Security+ (Test Date November 15th 2026)
 3. COMPTIA Network+  (Expected Spring 2027)
 <br>
 <br>
@@ -31,19 +31,19 @@ As i transition into this field, my current aim is to join a Security Operations
 -  <a href="https://github.com/OliverCar443/Security-Audit/tree/main">Compliance Audit</a>
 -  <a href="https://github.com/OliverCar443/TCPDump-Network-Log-Analysis">(TCPDump) Network/Log Analysis</a>
 -  <a href="https://github.com/OliverCar443/Wireshark-Network-Traffic-Analysis">(Wireshark) Network Traffic Analysis</a>
--  <a href="https://google.com">Email Phishing Analysis </a> _(Coming August 5 2026)_
--  <a href="https://google.com">Malware Analysis </a> _(August 15th 2026)_
+-  <a href="https://google.com">Email Phishing Analysis </a> _(September 22nd 2026)_
+-  <a href="https://google.com">Malware Analysis </a> _(October 25th 2026)_
 
 **Network & Cyber Security**
 -  <a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Cybersecurity Homelab: 3 Part Series </a>
--  <a href="https://google.com">Cisco Packet Tracer: Network Building Series </a> _(September 20th 2026)_
+-  <a href="https://google.com">Cisco Packet Tracer: Network Building Series </a> _(October 15th 2026)_
 
 **Programming & Automation**
--  <a href="https://google.com">Basic Python Projects </a> _(August 30th 2026)_
+-  <a href="https://google.com">Basic Python Projects </a> _(October 30th 2026)_
 
 **System Admin**
--  <a href="https://google.com">Build a Linux Environment </a> _(August 2 2026)_
--  <a href="https://google.com">Active Directory</a> _(September 30th 2026)_
+-  <a href="https://google.com">Build a Linux Environment </a> _(September 15 2026)_
+-  <a href="https://google.com">Active Directory</a> _(October 20th 2026)_
 <br>
 
 ## Resources🔍
